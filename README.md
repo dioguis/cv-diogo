@@ -1,2 +1,3 @@
 # cv-diogo
-curriculo - atividade de computação
+
+Atividade universitária para disciplina de "Introdução à computação".
